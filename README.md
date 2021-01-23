@@ -1,4 +1,4 @@
-# dynamicreviewer
+# Dynamic Reviewer
 Dynamic Reviewer,
 part of Security Reviewer Suite, shares Web UI with https://github.com/dsyman/arachni-ui-web
 
