@@ -1,6 +1,6 @@
 # dynamicreviewer
-Dynamic Reviewer
-Part of Security Reviewer Suite, shares Web UI with https://github.com/dsyman/arachni-ui-web
+Dynamic Reviewer,
+part of Security Reviewer Suite, shares Web UI with https://github.com/dsyman/arachni-ui-web
 Core Engine, the Command Line Interface Websites Scanner, was completely rewritten from scratch in python and C++
 
 Further, Dynamic Reviewer shares with Arachni the following:
